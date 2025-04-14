@@ -1,0 +1,13 @@
+Model,Type Designator
+Aircraft type not (yet) assigned a designator,ZZZZ
+Airship,SHIP
+Balloon,BALL
+Glider,GLID
+Microlight aircraft,ULAC1
+Microlight autogyro,GYRO2
+Microlight helicopter,UHEL2
+Powered parachute/Paraplane,PARA
+Sailplane,GLID
+Ultralight aircraft,ULAC1
+Ultralight autogyro,GYRO2
+Ultralight helicopter,UHEL2
